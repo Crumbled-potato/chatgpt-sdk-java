@@ -8,6 +8,8 @@ package cn.bugstack.chatgpt.common;
  */
 public class Constants {
 
+    public final static String NULL = "NULL";
+
     /**
      * 官网支持的请求角色类型；system、user、assistant
      * https://platform.openai.com/docs/guides/chat/introduction
